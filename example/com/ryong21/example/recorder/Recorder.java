@@ -14,7 +14,7 @@ public class Recorder {
 		String playFileName = "2.mp3";
 		String saveAsFileName = "22.flv";
 		
-		String host = "rtmpxn.91kge.com";
+		String host = "127.0.0.1";
 		int port = 1935;
 		String app = "vod";
 
